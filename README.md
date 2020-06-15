@@ -1,6 +1,6 @@
 ## 邪恶的Misa Liu
 #### 本项目仓库将对Misa Liu恶意黑小杰的行为进行批判及实际情况披露。
-#### 首先，我们先看一下Misa Liu发布恶意黑小杰的链接：[恶意黑小杰文章（请不要相信）](https://github.com/MisaLiu/Evil_Xiaojie)  [为恶意黑小杰而胡乱编撰的黑历史文件](https://github.com/MisaLiu/Evil_Xiaojie/tree/master/Xiaojie_BlackHistory)
+#### 首先，我们先看一下Misa Liu发布恶意黑小杰的链接：<kbd>[恶意黑小杰文章](https://github.com/MisaLiu/Evil_Xiaojie)</kbd><kbd>[小杰黑历史（恶意编撰）](https://github.com/MisaLiu/Evil_Xiaojie/tree/master/Xiaojie_BlackHistory)</kbd>
 ***
 #### Misa Liu是谁？
 ##### 既然此页面为反Misa Liu而生，那么我们首先需要认识一下Misa Liu。
