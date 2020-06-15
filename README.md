@@ -15,7 +15,6 @@
 ##### 此页面是反Misa Liu的页面。
 ##### 此页面将逐渐填充证据。
 ##### 如果您认为有些地方不合理，欢迎指出。
-***
 ##### 我在此声明，不会撤销所有文件。
 ##### 如果您对任何文件有异议，我再次强调，欢迎指出。
 ***
@@ -32,8 +31,7 @@
 ##### Misa这种如此喜欢捣乱的人，做出的事更是令人恶心。
 ***
 
-***
-### 主页文件 [点此访问](https://github.com/MisaLiu/Evil_Xiaojie) 不实之处
+### 主页文件不实之处<kbd>[点此访问](https://github.com/MisaLiu/Evil_Xiaojie)</kbd>
 ***
 #### 关于“黑小杰文章”（https://github.com/MisaLiu/Evil_Xiaojie ）中第一枪/矛盾升级的内容
 ##### 在此章节中，Misa Liu并未说实话，Kurisu被小杰处罚纯属自己违反规则，而在此文章中（恶意黑小杰），其行为只是为黑小杰。至于Xhjok，呵呵，你们懂的。
@@ -42,7 +40,7 @@
 ##### 而Misa却想利用GitHub恶意黑小杰。这种人，你们觉得咋样？
 #### 主页主文件已讲述完毕，如Misa还有恶意黑小杰的行为，以上内容将扩张。
 ***
-### 黑历史 (https://github.com/MisaLiu/Evil_Xiaojie/tree/master/Xiaojie_BlackHistory) 文件不实之处。
+### 黑历史文件不实之处<kbd>[点此访问](https://github.com/MisaLiu/Evil_Xiaojie/tree/master/Xiaojie_BlackHistory)</kbd>
 ***
 #### 域名、B站账号及其是否成年问题
 ##### 首先，我可以很负责任地说，小杰是成年人。
