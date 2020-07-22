@@ -1,3 +1,9 @@
+# 来自 Misa Liu 的必读声明
+
+**以下文章内容来自小杰团队 *Evil-Misa-Liu（该账号现已莫名其妙消失）* ，通篇有大量的排版错误、谎言、时间轴混乱、语法问题，请您注意规避。**
+
+------
+
 ## 邪恶的Misa Liu
 #### 本项目仓库将对Misa Liu恶意黑小杰的行为进行批判及实际情况披露。
 #### 首先，我们先看一下Misa Liu发布恶意黑小杰的链接：<kbd>[恶意黑小杰文章](https://github.com/MisaLiu/Evil_Xiaojie)</kbd><kbd>[小杰黑历史（恶意编撰）](https://github.com/MisaLiu/Evil_Xiaojie/tree/master/Xiaojie_BlackHistory)</kbd>
